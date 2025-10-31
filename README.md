@@ -24,4 +24,4 @@ This calculator can solve basic math utilizing basic operators, and solve simple
 -100 - x = 75 (answer: 25)
 
 ### what i learned about search
-
+The calculator worked even with division by 0 without breaking the code. The visualization search worked as it was supposed to by displying a search mode. The Equations results had to be rounded off to the nearest tenth.
